@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HTML5+CSS3
 <<<<<<< HEAD
 Javascript���и߼��γ�
@@ -12,6 +13,8 @@ Vue��Angular��Nodejs�ȸ߼���ܼ�������
 rn  ��Ͽ���
 ����
 =======
+=======
+>>>>>>> b52df224a0a2928509dea897ae471a6a02f4f729
 Javascript初中高级课程
 PHP后台开发
 手机端web应用开发
@@ -22,5 +25,8 @@ Vue，Angular，Nodejs等高级框架技术开发
 微信小程序开发
 项目实训
 rn  混合开发
+<<<<<<< HEAD
 嘿嘿嘿嘿
 >>>>>>> 856ef78ded528084ac703600cdb6afa7e739ea21
+=======
+>>>>>>> b52df224a0a2928509dea897ae471a6a02f4f729
